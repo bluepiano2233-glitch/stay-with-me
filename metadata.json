@@ -1,0 +1,8 @@
+
+{
+  "name": "Magical 3D Birthday Cake",
+  "description": "An interactive 3D birthday experience where you can blow out candles with realistic smoke and flame effects, featuring AI-generated birthday wishes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
